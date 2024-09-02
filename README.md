@@ -10,7 +10,7 @@ In this project description we will cover:
 
 ### Project Overview
 
-For this project, I used exploratory data analysis to generate insights for a bank(business stakeholder).
+For this project, I conducted exploratory data analysis (EDA) to generate actionable insights for a bank. The goal was to analyze customer data to understand key factors influencing the likelihood of converting to the bank's insurance products. By examining various features and performing modeling, I aimed to provide the bank with valuable information to enhance their marketing strategies and improve customer engagement.
 
 
 ### Business Understanding
