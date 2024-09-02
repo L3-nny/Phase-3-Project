@@ -1,4 +1,5 @@
 # Phase 3 Project
+<<<<<<< HEAD
 
 In this project description we will cover:
 
@@ -142,3 +143,5 @@ In this project, we analyzed customer data to identify key segments likely to co
 
 
 *Recommendations*: Focus on high-conversion segments, leverage previous campaign successes, and consider model trade-offs based on business priorities. Further research and refinement of strategies may enhance overall effectiveness.
+=======
+>>>>>>> 3f6a787e0d66a8533eea7c0ade1fc1174b8ead88
