@@ -1,11 +1,10 @@
 # Phase 3 Project
-<<<<<<< HEAD
 
 In this project description we will cover:
 
 * [***Project Overview:***](#project-overview) the project goal, audience, and dataset
-* [***Business Understanding:***]# understanding the business problem or opportunity that the project aims to address
-* [***Data Understanding:***] gathering, exploring, and comprehending the data that will be used to solve the business problem
+* [***Business Understanding:***](#business-understanding) understanding the business problem or opportunity that the project aims to address
+* [***Data Understanding:***](#data-understanding) gathering, exploring, and comprehending the data that will be used to solve the business problem
 * [***Conclusion:***](#conclusion) brief summary of the findings and recommendations.
 
 
@@ -21,7 +20,7 @@ Analyzing a bank's customer data to identify key segments that are most likely t
 In this folder, `dataset` is a datasets from 
 * [Kaggle](https://www.kaggle.com/)
 
-* **Data Description.**
+#### Data Description
 
 * ***Occupation*** The job category of the customer (e.g. student, retired, jobless)
 
@@ -46,7 +45,8 @@ In this folder, `dataset` is a datasets from
 * ***Conversion Status*** Whether the customer converted(purchased the insurance offered by the bank) or not
 
 
-* **Exploratory Data Analysis.**
+#### Exploratory Data Analysis
+
 ***Occupations with Highest and Lowest Conversion Rates:***
 Identified which job categories have the highest and lowest likelihood of conversion.
 
@@ -142,6 +142,7 @@ In this project, we analyzed customer data to identify key segments likely to co
 *Model Performance*: While the Random Forest model demonstrated high accuracy and AUC-ROC, indicating strong predictive power, trade-offs in recall and precision were noted. The use of SMOTE improved class balance but slightly affected recall.
 
 
-*Recommendations*: Focus on high-conversion segments, leverage previous campaign successes, and consider model trade-offs based on business priorities. Further research and refinement of strategies may enhance overall effectiveness.
-=======
->>>>>>> 3f6a787e0d66a8533eea7c0ade1fc1174b8ead88
+#### Recommendations 
+1. Focus on high-conversion segments
+2. Leverage previous campaign successes and consider model trade-offs based on business priorities.
+3. Further research and refinement of strategies may enhance overall effectiveness.
