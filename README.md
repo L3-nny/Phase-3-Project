@@ -17,7 +17,7 @@ For this project, I used exploratory data analysis to generate insights for a ba
 Analyzing a bank's customer data to identify key segments that are most likely to convert to the bank's insurance products. By understanding which factors influence a customer's decision to subscribe to the insurance service, it is easier to develop targeted strategies to improve conversion rates, optimize marketing efforts, and ultimately increase revenue for the bank.
 
 ### Data Understanding
-In this folder, `dataset` is a datasets from 
+In this folder, `dataset` is a dataset from 
 * [Kaggle](https://www.kaggle.com/)
 
 #### Data Description
